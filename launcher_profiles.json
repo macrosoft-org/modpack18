@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "1.8": {
+      "name": "1.8",
+      "lastVersionId": "1.8-LiteLoader1.8-1.8-forge1.8-11.14.4.1563",
+      "javaDir": ".macrosoft\\1.8x64\\java\\bin\\java",
+      "javaArgs": "-Xmx1024M"
+    }
+  },
+  "selectedProfile": "1.8"
+}

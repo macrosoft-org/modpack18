@@ -1,0 +1,24 @@
+{
+  "inheritsFrom": "1.8-forge1.8-11.14.4.1563",
+  "id": "1.8-LiteLoader1.8-1.8-forge1.8-11.14.4.1563",
+  "time": "2014-05-14T14:29:23-03:00",
+  "releaseTime": "2014-05-14T14:29:23-03:00",
+  "type": "release",
+  "minecraftArguments": "--tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker --username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker",
+  "libraries": [
+    {
+      "name": "com.mumfrey:liteloader:1.8",
+      "url": "http://dl.liteloader.com/versions/"
+    },
+    {
+      "name": "net.minecraft:launchwrapper:1.11"
+    },
+    {
+      "name": "org.ow2.asm:asm-all:5.0.3"
+    }
+  ],
+  "mainClass": "net.minecraft.launchwrapper.Launch",
+  "minimumLauncherVersion": 16,
+  "jar": "1.8",
+  "downloads": {}
+}

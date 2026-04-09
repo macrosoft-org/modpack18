@@ -1,0 +1,251 @@
+[21:57:39] [main/INFO]: LiteLoader 1.8.0 starting up...
+[21:57:39] [main/INFO]: Java reports OS="windows 10"
+[21:57:39] [main/INFO]: Adding supported mod class prefix 'LiteMod'
+[21:57:39] [main/INFO]: Enumerating class path...
+[21:57:39] [main/INFO]: Class path separator=";"
+[21:57:39] [main/INFO]: Class path entries=(
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\mumfrey\liteloader\1.8\liteloader-1.8.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\net\minecraft\launchwrapper\1.11\launchwrapper-1.11.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\net\minecraftforge\forge\1.8-11.14.4.1563\forge-1.8-11.14.4.1563.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\io\netty\netty-all\4.0.15.Final\netty-all-4.0.15.Final.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\mojang\netty\1.8.8\netty-1.8.8.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\io\netty\netty-all\4.0.15.Final\netty-all-4.0.15.Final.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\google\guava\guava\17.0\guava-17.0.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\mojang\realms\1.6.1\realms-1.6.1.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\tv\twitch\twitch\6.5\twitch-6.5.jar
+   classpathEntry=C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\versions\1.8\1.8.jar
+)
+[21:57:39] [main/INFO]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
+[21:57:39] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\mods]
+[21:57:39] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\mods\1.8]
+[21:57:39] [main/INFO]: Registering enumerator plugin DefaultEnumeratorPlugin: [com.mumfrey.liteloader.core.api.DefaultEnumeratorPlugin@e056f20]
+[21:57:39] [main/INFO]: Discovering tweaks on class path...
+[21:57:39] [main/INFO]: Baking listener list for EnumerationObserver with 1 listeners
+[21:57:39] [main/INFO]: Discovering valid mod files in folder C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\mods
+[21:57:39] [main/INFO]: Inspecting jar metadata in '1.8AutoJoin-v1.5.2.jar'
+[21:57:39] [main/INFO]: Ignoring C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\mods\1.8AutoJoin-v1.5.2.jar
+[21:57:39] [main/INFO]: Inspecting jar metadata in 'keybind_macromod.litemod'
+[21:57:39] [main/INFO]: Considering valid mod file: C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\mods\keybind_macromod.litemod
+[21:57:39] [main/INFO]: Inspecting jar metadata in 'OptiFine_1.8.0_HD_U_D5.jar'
+[21:57:39] [main/INFO]: Ignoring C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\mods\OptiFine_1.8.0_HD_U_D5.jar
+[21:57:39] [main/INFO]: Registering events.json for mod with id macros
+[21:57:39] [main/INFO]: Adding newest valid mod file 'C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\mods\keybind_macromod.litemod' at revision 1130,0000
+[21:57:39] [main/INFO]: Discovering valid mod files in folder C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\mods\1.8
+[21:57:39] [main/INFO]: Mod file 'keybind_macromod.litemod' provides classTransformer 'net.eq2online.macros.core.overlays.OverlayTransformers$ShapedRecipes', adding to class loader
+[21:57:39] [main/INFO]: classTransformer 'net.eq2online.macros.core.overlays.OverlayTransformers$ShapedRecipes' was successfully added
+[21:57:39] [main/INFO]: Mod file 'keybind_macromod.litemod' provides classTransformer 'net.eq2online.macros.core.overlays.OverlayTransformers$ShapelessRecipes', adding to class loader
+[21:57:39] [main/INFO]: classTransformer 'net.eq2online.macros.core.overlays.OverlayTransformers$ShapelessRecipes' was successfully added
+[21:57:39] [main/INFO]: LiteLoader PREINIT complete
+[21:57:42] [main/INFO]: Parsing events for mod with id macros
+[21:57:42] [main/INFO]: macros contains Accessor definitions, injecting into classpath...
+[21:57:42] [main/INFO]: Registering events for mod with id macros
+[21:57:42] [main/INFO]: Injecting onstartupcomplete[x1] in func_71384_a in Minecraft
+[21:57:42] [main/INFO]: Injecting prerenderfbo[x1] in func_71411_J in Minecraft
+[21:57:42] [main/INFO]: Injecting postrenderfbo[x1] in func_71411_J in Minecraft
+[21:57:42] [main/INFO]: Injecting ontimerupdate[x1] in func_71411_J in Minecraft
+[21:57:42] [main/INFO]: Injecting onrender[x1] in func_71411_J in Minecraft
+[21:57:42] [main/INFO]: Injecting ontick[x1] in func_71411_J in Minecraft
+[21:57:42] [main/INFO]: Injecting updateframebuffersize[x1] in func_147119_ah in Minecraft
+[21:57:42] [main/INFO]: Injecting newtick[x1] in func_71407_l in Minecraft
+[21:57:42] [main/INFO]: MinecraftTransformer found INIT injection point, this is good.
+[21:57:42] [main/INFO]: Injecting onoutboundchat[x1] in func_71165_d in EntityPlayerSP
+[21:57:42] [main/INFO]: Injecting onupdatechatfield[x1] in func_73876_c in GuiChat
+[21:57:42] [main/INFO]: Injecting ontextboxmouseclick[x1] in func_73864_a in GuiChat
+[21:57:42] [main/INFO]: Injecting ondrawchatgui[x1] in func_73863_a in GuiChat
+[21:57:42] [main/INFO]: Injecting ondrawchatfield[x1] in func_73863_a in GuiChat
+[21:57:42] [main/INFO]: Injecting onrenderchat[x1] in func_175180_a in GuiIngame
+[21:57:42] [main/INFO]: Injecting postrenderchat[x1] in func_175180_a in GuiIngame
+[21:57:42] [main/INFO]: Injecting onsessionprofilebad[x1] in func_148256_e in Session
+[21:57:42] [Client thread/INFO]: Injecting onservertick[x1] in func_71190_q in MinecraftServer
+[21:57:43] [Client thread/INFO]: Injecting oncreateintegratedserver[x1] in <init> in IntegratedServer
+[21:57:43] [Client thread/INFO]: Injecting onplayerlogin[x1] in func_72377_c in ServerConfigurationManager
+[21:57:43] [Client thread/INFO]: Injecting onplayerlogout[x1] in func_72367_e in ServerConfigurationManager
+[21:57:43] [Client thread/INFO]: Injecting onspawnplayer[x1] in func_148545_a in ServerConfigurationManager
+[21:57:43] [Client thread/INFO]: Injecting onrespawnplayer[x1] in func_72368_a in ServerConfigurationManager
+[21:57:43] [Client thread/INFO]: Injecting onblockclicked[x1] in func_180784_a in ItemInWorldManager
+[21:57:43] [Client thread/INFO]: Injecting onactivateblockoruseitem[x1] in func_180236_a in ItemInWorldManager
+[21:57:46] [Client thread/INFO]: Applying overlay net.eq2online.macros.core.overlays.MixinShapedRecipes to net.minecraft.item.crafting.ShapedRecipes
+[21:57:46] [Client thread/INFO]: Applying overlay net.eq2online.macros.core.overlays.MixinShapelessRecipes to net.minecraft.item.crafting.ShapelessRecipes
+[21:57:46] [Client thread/INFO]: Injecting onplayermoved[x1] in func_147347_a in NetHandlerPlayServer
+[21:57:46] [Client thread/INFO]: Injecting onplayerdigging[x1] in func_147345_a in NetHandlerPlayServer
+[21:57:46] [Client thread/INFO]: Injecting onplaceblock[x1] in func_147346_a in NetHandlerPlayServer
+[21:57:46] [Client thread/INFO]: Injecting onclickedair[x1] in func_175087_a in NetHandlerPlayServer
+[21:57:46] [Client thread/INFO]: Injecting prerendergui[x1] in func_78480_b in EntityRenderer
+[21:57:46] [Client thread/INFO]: Injecting onrenderhud[x1] in func_78480_b in EntityRenderer
+[21:57:46] [Client thread/INFO]: Injecting postrenderhud[x1] in func_78480_b in EntityRenderer
+[21:57:46] [Client thread/INFO]: Injecting onrenderworld[x1] in func_78471_a in EntityRenderer
+[21:57:46] [Client thread/INFO]: Injecting postrender[x1] in func_78471_a in EntityRenderer
+[21:57:46] [Client thread/INFO]: Injecting onrendersky[x1] in func_175068_a in EntityRenderer
+[21:57:46] [Client thread/INFO]: Injecting onrenderterrain[x1] in func_175068_a in EntityRenderer
+[21:57:46] [Client thread/INFO]: Injecting onsetupcameratransform[x1] in func_175068_a in EntityRenderer
+[21:57:46] [Client thread/INFO]: Injecting postrenderentities[x1] in func_175068_a in EntityRenderer
+[21:57:46] [Client thread/INFO]: Injecting onrenderclouds[x1] in func_180437_a in EntityRenderer
+[21:57:48] [Client thread/INFO]: Injecting renderfbo[x1] in func_178038_a in Framebuffer
+[21:57:54] [Client thread/INFO]: Injecting onrenderentity[x1] in func_147939_a in RenderManager
+[21:57:54] [Client thread/INFO]: Injecting onpostrenderentity[x1] in func_147939_a in RenderManager
+[21:57:54] [Client thread/INFO]: JInput Component Registry is initialising...
+[21:57:55] [Client thread/INFO]: Inspecting Mouse controller Synaptics Pointing Device on Unknown...
+[21:57:55] [Client thread/INFO]: Inspecting Keyboard controller Teclado Padrão PS/2 on Unknown...
+[21:57:55] [Client thread/INFO]: Inspecting Unknown controller HIDI2C Device on Unknown...
+[21:57:55] [Client thread/INFO]: JInput Component Registry initialised, found 3 controller(s) 122 component(s)
+[21:57:55] [Client thread/INFO]: LiteLoader begin INIT...
+[21:57:55] [Client thread/INFO]: Baking listener list for CoreProvider with 2 listeners
+[21:57:55] [Client thread/INFO]: Injecting external mods into class path...
+[21:57:55] [Client thread/INFO]: Injecting external mods into class path...
+[21:57:55] [Client thread/INFO]: Discovering mods on class path...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\mumfrey\liteloader\1.8\liteloader-1.8.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\net\minecraft\launchwrapper\1.11\launchwrapper-1.11.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\net\minecraftforge\forge\1.8-11.14.4.1563\forge-1.8-11.14.4.1563.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\io\netty\netty-all\4.0.15.Final\netty-all-4.0.15.Final.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\mojang\netty\1.8.8\netty-1.8.8.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\io\netty\netty-all\4.0.15.Final\netty-all-4.0.15.Final.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\google\guava\guava\17.0\guava-17.0.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\com\mojang\realms\1.6.1\realms-1.6.1.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\libraries\tv\twitch\twitch\6.5\twitch-6.5.jar...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\versions\1.8\1.8.jar...
+[21:57:55] [Client thread/INFO]: Discovering mods in valid mod files...
+[21:57:55] [Client thread/INFO]: Searching C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\mods\keybind_macromod.litemod...
+[21:57:55] [Client thread/INFO]: Found 1 potential matches
+[21:57:55] [Client thread/INFO]: Discovering mods in valid mod files...
+[21:57:55] [Client thread/INFO]: Mod class discovery completed
+[21:57:55] [Client thread/INFO]: LiteLoader begin POSTINIT...
+[21:57:55] [Client thread/INFO]: Inhibiting sound handler reload
+[21:57:55] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.LiteLoaderEventBrokerClient for API LiteLoader core API
+[21:57:55] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.PacketEventsClient for API LiteLoader core API
+[21:57:55] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.ClientPluginChannelsClient for API LiteLoader core API
+[21:57:55] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.core.ServerPluginChannels for API LiteLoader core API
+[21:57:55] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.messaging.MessageBus for API LiteLoader core API
+[21:57:55] [Client thread/INFO]: Discovered 1 total mod(s), injected 0 tweak(s)
+[21:57:55] [Client thread/INFO]: Loading mod from net.eq2online.macros.LiteModMacros
+[21:57:55] [Client thread/INFO]: Baking listener list for ModLoadObserver with 1 listeners
+[21:57:55] [Client thread/INFO]: Successfully added mod Macro / Keybind Mod version 0.11.3
+[21:57:55] [Client thread/INFO]: Adding "C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\mods\keybind_macromod.litemod" to active resource pack set
+[21:57:55] [Client thread/INFO]: Setting up "keybind_macromod.litemod" as mod resource pack with identifier "Macro / Keybind Mod"
+[21:57:55] [Client thread/INFO]: Successfully added "C:\Users\GUILHERME\Downloads\rk\.macrosoft\1.5.2\mods\keybind_macromod.litemod" to active resource pack set
+[21:57:55] [Client thread/INFO]: Initialising mod Macro / Keybind Mod version 0.11.3
+[21:58:00] [Client thread/INFO]: API Loaded module module_CloudScriptUpdater-Api18.jar found 1 custom action(s) 0 new variable provider(s) 0 new iterator(s), 0 event provider(s)
+[21:58:00] [Client thread/INFO]: Loading macro templates...
+[21:58:00] [Client thread/INFO]: Using config dir /liteconfig/common/macros/
+[21:58:01] [Client thread/INFO]: Script engine initialised, registered 116 script action(s)
+[21:58:01] [Client thread/INFO]: Script engine initialised, registered 63 script action(s)
+[21:58:01] [Client thread/INFO]: Loading chat filter templates...
+[21:58:01] [Client thread/INFO]: Baking listener list for InterfaceObserver with 0 listeners
+[21:58:03] [Thread-8/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy
+[21:58:03] [Thread-8/INFO]: Successfully generated event handler proxy class with 52 handlers(s) and 52 total invokations
+[21:58:05] [Client thread/INFO]: Calling late init for mod Macro / Keybind Mod
+[21:58:05] [Client thread/INFO]: Baking listener list for ViewportListener with 1 listeners
+[21:58:05] [Client thread/INFO]: Sound handler reload inhibit removed
+[21:58:05] [Client thread/INFO]: Reloading sound handler
+[21:58:06] [Client thread/INFO]: Baking listener list for GameLoopListener with 1 listeners
+[21:58:06] [Client thread/INFO]: Baking listener list for RenderListener with 1 listeners
+[21:58:06] [Client thread/INFO]: Baking listener list for TickObserver with 3 listeners
+[21:58:06] [Client thread/INFO]: Baking listener list for PostRenderObserver with 3 listeners
+[21:58:06] [Client thread/INFO]: Baking listener list for Tickable with 1 listeners
+[21:58:06] [Client thread/INFO]: JInput Component Registry is initialising...
+[21:58:06] [Client thread/INFO]: Inspecting Mouse controller Synaptics Pointing Device on Unknown...
+[21:58:06] [Client thread/INFO]: Inspecting Keyboard controller Teclado Padrão PS/2 on Unknown...
+[21:58:06] [Client thread/INFO]: Inspecting Unknown controller HIDI2C Device on Unknown...
+[21:58:06] [Client thread/INFO]: JInput Component Registry initialised, found 3 controller(s) 122 component(s)
+[21:58:06] [Client thread/INFO]: Hooking jinput:mouse/Synaptics Pointing Device/Unknown/0/3/0 as ID 253 via JInput
+[21:58:06] [Client thread/INFO]: Hooking jinput:mouse/Synaptics Pointing Device/Unknown/0/4/0 as ID 254 via JInput
+[21:58:20] [Client thread/INFO]: Baking listener list for ServerCommandProvider with 0 listeners
+[21:58:21] [Server thread/INFO]: Baking listener list for IEventState with 0 listeners
+[21:58:21] [Server thread/INFO]: Baking listener list for ServerTickable with 0 listeners
+[21:58:22] [Netty Server IO #1/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy$2
+[21:58:22] [Netty Server IO #1/INFO]: Successfully generated event handler proxy class with 100 handlers(s) and 100 total invokations
+[21:58:22] [Netty Local Client IO #0/INFO]: Baking listener list for PostLoginListener with 0 listeners
+[21:58:22] [Server thread/INFO]: Baking listener list for ServerPlayerListener with 0 listeners
+[21:58:22] [Server thread/INFO]: Baking listener list for IEventState with 1 listeners
+[21:58:22] [Client thread/INFO]: Baking listener list for PreJoinGameListener with 0 listeners
+[21:58:23] [Client thread/INFO]: Baking listener list for JoinGameListener with 1 listeners
+[21:58:23] [Client thread/INFO]: Forge ClientCommandHandler was found, outbound commands will be processed by Forge
+[21:58:23] [Client thread/INFO]: Baking listener list for PreRenderListener with 0 listeners
+[21:58:23] [Server thread/INFO]: Baking listener list for PlayerMoveListener with 0 listeners
+[21:58:23] [Client thread/INFO]: Baking listener list for PostRenderListener with 0 listeners
+[21:58:23] [Client thread/INFO]: Baking listener list for HUDRenderListener with 0 listeners
+[21:58:23] [Client thread/INFO]: Forge ClientCommandHandler was found, outbound commands will be processed by Forge
+[21:58:23] [Client thread/INFO]: Baking listener list for WorldObserver with 2 listeners
+[21:58:24] [Client thread/INFO]: Baking listener list for EntityRenderListener with 0 listeners
+[21:58:34] [Client thread/INFO]: Baking listener list for ChatListener with 1 listeners
+[21:59:12] [Client thread/INFO]: LiteLoader is shutting down, shutting down core providers and syncing configuration
+[21:59:12] [Client thread/INFO]: Baking listener list for ShutdownObserver with 3 listeners
