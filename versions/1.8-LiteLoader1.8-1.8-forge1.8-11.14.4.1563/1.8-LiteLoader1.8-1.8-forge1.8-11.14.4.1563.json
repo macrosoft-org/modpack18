@@ -6,15 +6,47 @@
   "type": "release",
   "minecraftArguments": "--tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker --username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker",
   "libraries": [
-    {
-      "name": "com.mumfrey:liteloader:1.8",
-      "url": "http://dl.liteloader.com/versions/"
+      {
+        "name": "com.mumfrey:liteloader:1.8",
+        "url": "http://dl.liteloader.com/versions/"
+      },
+      {
+        "name": "net.minecraft:launchwrapper:1.11"
+      },
+      {
+        "name": "org.ow2.asm:asm-all:5.0.3"
+      },
+      {
+      "name": "net.minecraftforge:forge:1.8-11.14.1.1334",
+      "url": "http://files.minecraftforge.net/maven/"
     },
     {
-      "name": "net.minecraft:launchwrapper:1.11"
+      "name": "org.lwjgl.lwjgl:lwjgl:2.9.1",
+      "rules": [
+        {
+          "action": "allow"
+        },
+        {
+          "action": "disallow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
     },
     {
-      "name": "org.ow2.asm:asm-all:5.0.3"
+      "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.1",
+      "rules": [
+        {
+          "action": "allow"
+        },
+        {
+          "action": "disallow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
     }
   ],
   "mainClass": "net.minecraft.launchwrapper.Launch",
