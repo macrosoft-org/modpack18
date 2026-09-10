@@ -28,6 +28,15 @@
                 <text>%%</text>
                 <visible>1</visible>
             </gc:label>
+            <gc:label id="257" name="LABEL_COORDENADAS" x="31" y="31">
+                <align>bottom left</align>
+                <background>#01000000</background>
+                <binding>&amp;fX: &amp;a%XPOS%\n&amp;fY: &amp;b%YPOS%\n&amp;fZ: &amp;e%ZPOS%</binding>
+                <colour>#00FF00</colour>
+                <shadow>1</shadow>
+                <text>%%</text>
+                <visible>1</visible>
+            </gc:label>
         </gc:controls>
     </gc:guilayout>
 </gui>
